@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>free-form documentation</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on free-form documentation</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/charter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/charter/</guid>
+      <description>True Form # Goals To make the project feasible A basic skeletal form { soln : React form } Data approachproach i.e: ~What data user will enter~ ~In what format the data is transferred~ What Back end solutions will be implemented (Ease first approach (No &amp;ldquo;scratch&amp;rdquo; philosophy)) Database solution: hmm that&amp;rsquo;s trickier (Local storage?) Our lifeline if we are stuck?🤞🏼🫠😂🥲👍 # All the available fields text input fields (for names, small phrases, and such) text area MCQS: How questions will be mapped against their options (also with images) checkboxes toggles (~beta~) range (for reviews and rating and such) files input (~beta~) email links + regex keywords (﻿syntaxui.</description>
+    </item>
+  </channel>
+</rss>
